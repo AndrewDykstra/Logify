@@ -1,6 +1,8 @@
 # Logify
 
-Logify is an intelligent log management and analysis tool designed to simplify log parsing, enhance real-time monitoring, and improve operational excellence. This user-friendly tool aggregates logs from multiple endpoints, providing powerful search capabilities and customizable dashboards to help you quickly identify and resolve incidents.
+Logify is an intelligent log management and analysis tool being developed to simplify log parsing, enhance real-time monitoring, and improve operational excellence. This user-friendly tool will aggregate logs from multiple endpoints, provide powerful search capabilities and customizable dashboards to help you quickly identify and resolve incidents.    
+
+After working as a Site Reliabilty Engineer Co-op for a year, I decided I wanted to try developing a tool of my own to gain a deeper understanding of the ins and outs of observability. This is a very ambitious project and my primary focus is to learn as much as I can along the way!
 
 # Goals and Milestones
 ## Initial Release [WIP]
